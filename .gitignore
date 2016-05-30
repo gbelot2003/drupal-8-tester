@@ -1,0 +1,10 @@
+.idea
+node_modules
+.idea/.name
+.idea/copyright/
+.idea/encodings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/tester.iml
+.idea/workspace.xml
+
